@@ -1,2 +1,2 @@
 # Proyectos-Global-Developer-SB
-Empresa de Seguridad Infotmatica
+Empresa de Seguridad Informatica
